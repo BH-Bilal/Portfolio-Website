@@ -487,7 +487,21 @@ footer p:nth-child(2) {
         text-align: center;
     }
     .about-text h2 {
-        margin-left: auto;
-        margin-right: auto;
+        text-align: start;
+        padding-bottom: 50rem;
+        margin-right: 5rem;
+        display: block;
+    }
+    .about img {
+        padding-bottom: 20rem;
+        padding-left: 2rem;
+        height: auto;
+        width: 500px;
+    }
+    .about-text h5 {
+        padding-top: 0rem;
+        padding-left: 0rem;
+        text-align: left;
+        width: 200px;
     }
 }
